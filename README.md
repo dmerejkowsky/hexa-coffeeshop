@@ -1,6 +1,6 @@
 # hexa-coffeeshop
 
-Full implemtation of the tutorial;
+Full implemtation of the tutorial:
 
 https://www.arhohuttunen.com/hexagonal-architecture-spring-boot/
 
