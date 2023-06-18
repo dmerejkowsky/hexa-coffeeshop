@@ -3,7 +3,7 @@ package info.dmerej.coffeeshop;
 import java.util.UUID;
 
 public interface Orders {
-    Order findOrderById(UUID orderId) throws OrderNotFound;
+    Order findOrderById(UUID orderId);
 
     Order save(Order order);
 

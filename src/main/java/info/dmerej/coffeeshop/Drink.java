@@ -1,4 +1,6 @@
 package info.dmerej.coffeeshop;
 
-public class Drink {
+public enum Drink {
+    Coffee,
+    Tea,
 }
